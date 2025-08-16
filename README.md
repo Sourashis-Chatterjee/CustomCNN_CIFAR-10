@@ -1,6 +1,6 @@
 # CustomCNN_CIFAR-10
 Custom built CNN for CIFAR-10 dataset classification
-# CIFAR-10 CNN Classification Report
+## CIFAR-10 CNN Classification Report
 
 ## Overview
 
