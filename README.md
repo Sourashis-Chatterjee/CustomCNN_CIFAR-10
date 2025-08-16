@@ -36,7 +36,7 @@ This project implements a custom Convolutional Neural Network (CNN) for image cl
 - **Epochs:** Increased from 10 to 40 for better convergence.
 - **Optimizer:** Used Adam optimizer.
 - **Learning Rate:** 0.001.
-- **Batch Size:** Set to 64).
+- **Batch Size:** Set to 64.
 
 ---
 
